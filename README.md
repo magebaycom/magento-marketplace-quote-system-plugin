@@ -23,8 +23,12 @@
 	<li>The seller receives an email notification when the buyer sends any quotes for the product and the buyer receives an email notification when the seller accepts their quotation.</li>
 </ul>
 
-<p><strong>Install&nbsp;<a href="https://www.magebay.com/magento-multi-vendor-marketplace-extension" style="box-sizing: border-box; background-color: transparent; color: rgb(3, 102, 214); text-decoration-line: none;">Magento Multi Vendor Marketplace</a>&nbsp;to be able to use this plugin</strong></p>
+<p><strong>Related Add-ons:&nbsp;<a href="https://github.com/magebaycom/magento-marketplace-seller-credit-management-system/">Magento Marketplace Seller Credit Management System</a></strong></p>
 
-<p><strong><em>- Contact&nbsp;</em><em>us:</em><em>&nbsp;info@magebay.com</em></strong></p>
+<p>-----------------------------------------------------------------------------------------------------------------------------------</p>
 
-<p><strong><em>- Website:&nbsp;<a href="https://www.magebay.com/" style="box-sizing: border-box; background-color: transparent; color: rgb(3, 102, 214); text-decoration-line: none;">https://www.magebay.com</a></em></strong></p>
+<p>Install&nbsp;<a href="https://www.magebay.com/magento-multi-vendor-marketplace-extension" style="box-sizing: border-box; background-color: transparent; color: rgb(3, 102, 214); text-decoration-line: none;">Magebay Magento Multi Vendor Marketplace</a>&nbsp;to be able to use this plugin</p>
+
+<p><em>- Contact&nbsp;us:&nbsp;<a href="mailto:info@magebay.com" style="box-sizing: border-box; background-color: transparent; color: rgb(3, 102, 214); text-decoration-line: none;">info@magebay.com</a></em></p>
+
+<p><em>- Website:&nbsp;<a href="https://www.magebay.com/" style="box-sizing: border-box; background-color: transparent; color: rgb(3, 102, 214); text-decoration-line: none;">https://www.magebay.com</a></em></p>
